@@ -11,14 +11,15 @@ Yotam Ottolenghi's [Black Pepper Tofu](https://ottolenghi.co.uk/recipes/black-pe
 - cornflour to dust the tofu
 - 150g butter (use half of the butter)
 - 12 small shallots (350g in total), thinly sliced
-- 8 fresh red chillies (fairly mild ones), thinly sliced
+- 8 fresh red chillies (mild ones), thinly sliced. Do not use fresno or thai chillies.
 - 12 garlic cloves, crushed
 - 3 tbsp chopped fresh root ginger
 - 3 tbsp sweet soy sauce (kecap manis)
 - 3 tbsp light soy sauce
 - 4 tsp dark soy sauce
 - 2 tbsp caster sugar
-- 5 tbsp coarsely crushed black peppercorns (use a pestle and mortar or a spice grinder)
+- 5 tbsp coarsely crushed black peppercorns (use a pestle and mortar or a spice grinder).
+  - If using finely ground black pepper, add less than 5 tbsp.
 - 16 small and thin spring onions, cut into 3cm segments
 
 ## Method
