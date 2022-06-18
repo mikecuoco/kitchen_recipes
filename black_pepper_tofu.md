@@ -1,8 +1,6 @@
 # Black Pepper Tofu
 
-## Source
-
-Yotam Ottolenghi's [Black Pepper Tofu](https://ottolenghi.co.uk/recipes/black-pepper-tofu-a)
+Source: [Yotam Ottolenghi's Black Pepper Tofu](https://ottolenghi.co.uk/recipes/black-pepper-tofu-a)
 
 ## Ingredients
 
